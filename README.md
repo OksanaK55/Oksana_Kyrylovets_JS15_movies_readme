@@ -1,7 +1,7 @@
 # Oksana_Kyrylovets_JS15_movies_readme
-# Oksana_Kyrylovets_JS15_movies
 
-# Project Name
+
+# Oksana_Kyrylovets_JS15_movies
 
 Welcome to Oksana_Kyrylovets_JS15_movies! This project allows you to quickly find movies and retrieve detailed information about them.
 
